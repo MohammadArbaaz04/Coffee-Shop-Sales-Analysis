@@ -16,8 +16,7 @@ The goal is to provide data-driven insights to optimize staffing during peak hou
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Coffee_Shop_Analysis_Preview.png) 
-*(Note: Replace this with your actual dashboard screenshot)*
+![Dashboard Preview](Coffee%20Shop%20Sales%20%20Analysis%20Dashboard%20Preview.png)
 
 ---
 
