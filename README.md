@@ -1,9 +1,5 @@
 # ☕ Coffee Shop Sales Analysis
 
-![Excel](https://img.shields.io/badge/Tools-Advanced%20Excel-green?style=for-the-badge&logo=microsoftexcel)
-![Power Query](https://img.shields.io/badge/Data%20Cleaning-Power%20Query-orange?style=for-the-badge)
-![Analysis](https://img.shields.io/badge/Output-Sales%20Insights-blue?style=for-the-badge)
-
 ## 📌 Project Overview
 The objective of this project is to perform a detailed analysis of a Coffee Shop’s sales performance using **Advanced Excel**. This project identifies Key Performance Indicators (KPIs) such as revenue trends, peak consumption hours, and product popularity across multiple store locations.
 
@@ -55,6 +51,6 @@ Based on the analysis of the transaction data from January to June, here are the
 
 ---
 
-## 🤝 Connect with Me
-**Mohammad Arbaaz Khan** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-arbaaz-5193163a4) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:arbajkhan0438@gmail.com)
+**Author:** Mohammad Arbaaz Khan  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mohammad-arbaaz-5193163a4)  
+📧 [Email Me](mailto:arbajkhan0438@gmail.com)
